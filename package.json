@@ -1,0 +1,15 @@
+{
+  "name": "es6-boilerplate1",
+  "version": "1.0",
+  "description": " es6-boilerplate project.",
+  "main": "index.js",
+  "author": "AlexSmith716",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
