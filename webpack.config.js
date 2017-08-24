@@ -1,7 +1,7 @@
 
 module.exports = {
 
-  entry: './index.js',
+  entry: __dirname + '/index.js',
 
   module: {
     rules: [{
